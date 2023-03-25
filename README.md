@@ -30,8 +30,8 @@ I am passionate about accessibility and creating and publishing considerate cont
 
 My industry experience includes ERP software, mining, renewable energy, education, transport, government and power and utilities. I have worked hard to earn my stripes in the technical writing world and have also built great relationships along the way. I can't wait to get involved with open source and projects that are purpose driven, with good intentions. 
 
-My next professional chapter is focussed on DevDocs, open source and agile methodologies and processes. My story will evolve in this space, with my goal to set a high standard and create the benchmark for the miniman standards of technical writing in open source projects. I want Go-To Doco to be the 'Go-To' for high quality documentation services and advice. 
+My new chapter is focussed on DevDocs, open-source and agile methodologies and processes, with the goal to set a high standard and create the benchmark to become the minimum standard used and referenced for technical writing and documentation in open source projects and DevDocs. 
 
-A brand that is known for building and contributing towards a strong and supportive open source, technical writing network.
+Go-To Doco will be the 'Go-To' for quality documentation services and advice. A brand that is known for building and contributing towards a strong and supportive open source, technical writing network.
 
 I am excited to learn, share and contribute. ✨🕺
